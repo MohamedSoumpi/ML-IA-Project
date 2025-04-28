@@ -10,5 +10,14 @@ Ce projet vise à classifier automatiquement des insectes pollinisateurs (abeill
 
 ### 2️⃣ Télécharger les données du projet :
 
-- Se fait automatiquement lors de l'exécution du script, gamberge.
+- Se fait automatiquement lors de l'exécution du script, gamberge. (Ca prend un peu de temps, mais c'est normal !) ZZBI
+
+## Explication des différents dossiers :
+- `data/` : Contient les données du projet.
+- `src/` : Contient le code source du projet.
+- `results/` : Contient les résultats du projet.
+- `scripts/` : Contient les scripts pour le traitement des données et l'entraînement des modèles.
+- `notebooks/` : Contient les notebooks Jupyter pour l'exploration des données et le développement.
+- `requirements.txt` : Liste des dépendances Python nécessaires au projet.
+
 

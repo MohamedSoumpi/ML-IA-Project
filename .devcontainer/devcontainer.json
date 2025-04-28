@@ -10,7 +10,10 @@
                 "ms-python.vscode-pylance",
                 "yzhang.markdown-all-in-one",
                 "ms-vsliveshare.vsliveshare"
-            ]
+            ],
+            "settings": {
+            "files.autoSave": "afterDelay"
+          }
         }
     }
   }
