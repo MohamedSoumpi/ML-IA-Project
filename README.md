@@ -11,6 +11,7 @@ Ce projet vise à classifier automatiquement des insectes pollinisateurs (abeill
 ### 2️⃣ Télécharger les données du projet :
 
 - Se fait automatiquement lors de l'exécution du script, gamberge. (Ca prend un peu de temps, mais c'est normal !) ZZBI
+- Les données sont stockées dans un dossier Drive puis télécharger automatiqument dans le dossier `data/` à l'ouverture du Codespace.
 
 ## Explication des différents dossiers :
 - `data/` : Contient toutes tes données brutes et traitées nécessaires au projet. (images, masques, tableau de classification, etc.)
