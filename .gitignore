@@ -1,0 +1,19 @@
+# Python caches and compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode workspace settings
+.vscode/
+
+# Environnement virtuel Python
+env/
+venv/
+
+# MacOS metadata
+.DS_Store
+
+data/
+bee_project_data.zip
