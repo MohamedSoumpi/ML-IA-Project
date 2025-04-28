@@ -13,11 +13,11 @@ Ce projet vise à classifier automatiquement des insectes pollinisateurs (abeill
 - Se fait automatiquement lors de l'exécution du script, gamberge. (Ca prend un peu de temps, mais c'est normal !) ZZBI
 
 ## Explication des différents dossiers :
-- `data/` : Contient les données du projet.
-- `src/` : Contient le code source du projet.
-- `results/` : Contient les résultats du projet.
-- `scripts/` : Contient les scripts pour le traitement des données et l'entraînement des modèles.
-- `notebooks/` : Contient les notebooks Jupyter pour l'exploration des données et le développement.
+- `data/` : Contient toutes tes données brutes et traitées nécessaires au projet. (images, masques, tableau de classification, etc.)
+- `src/` : Contient tout ton code Python modulaire et réutilisable (fonctions, scripts pour l’entraînement des modèles, extraction de features, etc.).
+- `results/` : Sauvegarde tous les résultats générés par ton projet (ex : modèles entraînés, prédictions CSV finales, graphiques générés).
+- `scripts/` : Contient des scripts utilitaires ponctuels ou des outils automatisés indépendants destinés à simplifier des opérations spécifiques.
+- `notebooks/` : Stocke tous les Jupyter Notebooks utilisés pour l’exploration et l’analyse interactive des données.
 - `requirements.txt` : Liste des dépendances Python nécessaires au projet.
 
 
